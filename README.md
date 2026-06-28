@@ -148,3 +148,10 @@ The uninstaller removes the LaunchAgent and the copied script under `~/.local/bi
 
 If the App Store is downloading or updating apps, killing `appstoreagent` may interrupt the current operation. Prefer a relatively high threshold such as `80`, `100`, or `120` to avoid reacting to short normal CPU spikes.
 
+## 请我喝杯咖啡 / Buy Me a Coffee
+
+如果这个脚本帮到了你，可以请我喝杯咖啡。
+
+<p>
+  <img src="assets/wechat-reward.jpg" alt="微信赞赏码 / WeChat reward code" width="260">
+</p>
